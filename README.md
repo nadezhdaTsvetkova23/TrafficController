@@ -1,4 +1,4 @@
 # TrafficController
-Second Assignment during the course Programming Languages and Concepts at the University of Vienna.
+This is the second Assignment from the course Programming Languages and Concepts at the University of Vienna.
 
-Java project using concurrency
+Java project representing a traffic control system using concurrency
